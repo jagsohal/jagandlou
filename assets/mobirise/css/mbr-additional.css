@@ -1813,28 +1813,14 @@ body {
   }
 }
 .cid-qU04joUjSw {
-  padding-top: 60px;
-  padding-bottom: 60px;
   background: #ffffff;
 }
 .cid-qU04joUjSw .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-qU04joUjSw .video-block {
-    width: 100% !important;
-  }
-}
-.cid-qU04vjjZXr {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: #ffffff;
-}
-.cid-qU04vjjZXr .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-qU04vjjZXr .video-block {
     width: 100% !important;
   }
 }
