@@ -1437,59 +1437,6 @@ body {
 .cid-qTUaQBpX3s P {
   text-align: center;
 }
-.cid-qUn3y4W1Qj {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #f8f8f8;
-}
-.cid-qUn6IzxbMJ {
-  padding-top: 75px;
-  padding-bottom: 75px;
-  background: #f8f8f8;
-}
-.cid-qUn6IzxbMJ .media-container-row {
-  margin: 0 auto;
-  align-items: stretch;
-}
-.cid-qUn6IzxbMJ .media-container-row .img-item {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  position: relative;
-  width: 100%;
-  z-index: 1;
-}
-.cid-qUn6IzxbMJ .media-container-row .img-item .img-cont {
-  position: relative;
-  overflow: hidden;
-}
-.cid-qUn6IzxbMJ .media-container-row .img-item .img-cont img {
-  width: 100%;
-}
-.cid-qUn6IzxbMJ .media-container-row .img-item .img-cont .img-caption {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  z-index: 2;
-  padding: 1rem 1rem;
-  word-break: break-word;
-}
-.cid-qUn6IzxbMJ .media-container-row .img-item .img-cont .img-caption p {
-  margin-bottom: 0;
-}
-.cid-qUn6IzxbMJ .media-container-row .img-item.item1 {
-  padding: 0 2rem 0 0;
-}
-@media (max-width: 992px) {
-  .cid-qUn6IzxbMJ .img-item {
-    width: 100% !important;
-  }
-  .cid-qUn6IzxbMJ .img-item.item1 {
-    width: 100%;
-    flex-basis: initial !important;
-    padding: 0 0 2rem 0 !important;
-  }
-}
 .cid-qTZI4H3wto {
   padding-top: 90px;
   padding-bottom: 0px;
@@ -1872,7 +1819,7 @@ body {
 }
 .cid-qUnzBRS0oW {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 120px;
   background: linear-gradient(45deg, #ffffff, #ffffff);
 }
 @media (min-width: 992px) {
@@ -1892,9 +1839,26 @@ body {
 .cid-qUnzBRS0oW .mbr-section-btn {
   color: #232323;
 }
-#custom-html-m {
-  /* Type valid CSS here */
+.cid-qUsJB6JXw9 {
+  background: #ffffff;
 }
-#custom-html-m .my-image {
+.cid-qUsJB6JXw9 .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qUsJB6JXw9 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qUsJB6JXw9 figcaption {
+  position: relative;
+}
+.cid-qUsJB6JXw9 figcaption div {
+  position: absolute;
+  bottom: 0;
   width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qUsJB6JXw9 .image-block {
+    width: 100% !important;
+  }
 }
