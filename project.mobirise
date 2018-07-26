@@ -78,7 +78,7 @@
     "gdpr": "",
     "siteUrl": "undefined",
     "versionFirst": "4.7.6",
-    "uniqCompNum": 37,
+    "uniqCompNum": 38,
     "versionPublish": "4.7.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -825,6 +825,25 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_afterNavbarItem": false,
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "sound": "https://soundcloud.com/jagsohal/it-started-with-a-kiss-1",
+            "autoplay": true,
+            "fullWidth": true,
+            "bgColor": "#fff"
+          },
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F476952753&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F476952753",
+          "alias": "soundcloud",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "soundcloud1",
+          "_anchor": "soundcloud1-11"
         }
       ]
     },
